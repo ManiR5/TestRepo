@@ -1,1 +1,6 @@
-git revert and reset test`
+git revert and reset test
+
+
+
+Resolved merge conflicts
+Checking merge and resolve
